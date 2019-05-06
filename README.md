@@ -1,6 +1,6 @@
-# Syncfusion WinForms DataGrid control used in .NET Core 3.0 project
+# Syncfusion WinForms DataGrid control used in .NET Core 3.0 application
 
-This repository contains the examples of usage of [Syncfusion WinForms DataGrid control](https://www.syncfusion.com/winforms-ui-controls/datagrid) being used in the .NET Core 3.0 project.
+This repository contains the examples of usage of [Syncfusion WinForms DataGrid control](https://www.syncfusion.com/winforms-ui-controls/datagrid) in a .NET Core 3.0 application.
 
 ## Getting Started
 
