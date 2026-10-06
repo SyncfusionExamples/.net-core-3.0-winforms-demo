@@ -1,13 +1,13 @@
-# Syncfusion WinForms DataGrid in .NET Core 3.0
+# Syncfusion WinForms Data Grid in .NET Core 3.0
 
 This repository contains a sample Windows Forms application that demonstrates how to use the [Syncfusion WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid) control in a .NET Core 3.0 application.
 
-The sample creates an `SfDataGrid`, binds it to a `DataTable`, and displays employee information in a simple data-bound form.
+The sample creates an `Data Grid`, binds it to a `DataTable`, and displays employee information in a simple data-bound form.
 
 ## Features
 
 - .NET Core 3.0 WinForms application
-- Syncfusion WinForms DataGrid integration
+- Syncfusion WinForms Data Grid integration
 - Data binding using `DataTable`
 - Sample employee records displayed in the grid
 - Ready-to-run Visual Studio solution
@@ -45,7 +45,7 @@ This sample references the following Syncfusion NuGet package:
 
 ## Output
 
-When the application runs, it displays a `SfDataGrid` populated with employee details such as:
+When the application runs, it displays a `Data Grid` populated with employee details such as:
 
 - Employee ID
 - Employee Name
